@@ -8,15 +8,15 @@ This app is created using **API** found on https://openweathermap.org/api
 </ul>
 
 ### Sample response of API
-<img src="./src/sample_response/sample_response.png" width="300">
+<img src="./src/sample_response/sample_response.png" width="700">
 
 ### Results
 
 ### Desktop view
 
-<img src="./src/sample_response/California.png" width="600">
+<img src="./src/sample_response/California.png" width="700">
 <br/>
-<img src="./src/sample_response/Shimla.png" width="600">
+<img src="./src/sample_response/Shimla.png" width="700">
 
 
 ### Mobile view
