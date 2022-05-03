@@ -14,14 +14,14 @@ This app is created using **API** found on https://openweathermap.org/api
 
 ### Desktop view
 
-<img src="./src/sample_response/California.png" width="300">
+<img src="./src/sample_response/California.png" width="600">
 <br/>
-<img src="./src/sample_response/Shimla.png" width="300">
+<img src="./src/sample_response/Shimla.png" width="600">
 
 
 ### Mobile view
 
-<img src="./src/sample_response/mobile.png" height="400" width="200">
+<img src="./src/sample_response/mobile.jpg" height="400" width="200">
 
 ### Link to view Deployment
 
