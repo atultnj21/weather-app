@@ -50,7 +50,14 @@ const SearchWeather = () => {
       emoji = "fa-smog";
     }
   } else {
-    return <div>...Loading</div>;
+    return (
+      <div style={{margin:"40px" ,padding:"20px"}}>
+        <span>...Loading</span>
+        <button style={{position:"absolute",right:100}} className ="btn btn-info" onClick={() => window.location.reload()}>
+          <i className="fas fa-refresh"></i>
+        </button>
+      </div>
+    );
   }
 
   //converting the data from kelvin to celsius
@@ -113,7 +120,10 @@ const SearchWeather = () => {
   return (
     <div>
       {/* outer container */}
-      <div className="container mt-5">
+      <div
+        className="container"
+        style={{padding:"10px 40px"}}
+      >
         {/* bootstrap row class */}
         <div className="row justify-content-center">
           {/* column medium -4) */}
